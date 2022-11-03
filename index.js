@@ -137,3 +137,4 @@ t.walk();
 // add();
 // import { Teacher1 } from "./teacher";
 // import { Person1 } from "./person";
+console.log("Shakil");
